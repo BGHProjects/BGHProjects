@@ -8,20 +8,12 @@
 I'm a software engineer, who has a passion for making cool things. My interests include Game Development, Artificial Intelligence / Machine Learning, XR (Extended Reality), and Web3.
 </div>
 <hr>
+</br>
+</br>
 
-<div width="100%">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=BGHProjects&show_icons=true&theme=midnight-purple" align="center"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGHProjects&layout=compact&theme=midnight-purple&langs_count=6&hide=html,php,css,haskell,visual%20basic,scss,vue" align="center"/>
- </div>
- 
-</br>
-</br>
-       
- 
- ### Game Development
+ ### 🎮 Game Development
  <hr>
  <div>
-
    <a  href="https://github.com/BGHProjects/Fabula-Ex-Machina">
     <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=Fabula-Ex-Machina&show_owner=true&theme=midnight-purple" />
   </a>
@@ -42,7 +34,7 @@ I'm a software engineer, who has a passion for making cool things. My interests 
 </br>
 </br>
 
- ### Artifical Intelligence / Machine Learning
+### 🤖 Artifical Intelligence / Machine Learning
  <hr>
  <div>
   <a  href="https://github.com/BGHProjects/Custom-Large-Language-Model">
@@ -66,7 +58,7 @@ I'm a software engineer, who has a passion for making cool things. My interests 
 </br>
 </br>
  
-### XR (Extended Reality)
+### 🥽 XR (Extended Reality) 
 <hr>
  <div>
    <a  href="https://github.com/BGHProjects/Planets-AR">
@@ -89,7 +81,7 @@ I'm a software engineer, who has a passion for making cool things. My interests 
 </br>
 </br>
 
- ### Web 3 
+ ### ₿ Web 3
  <hr>
   <div>
 
