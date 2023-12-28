@@ -4,52 +4,81 @@
 
 
 <hr>
-
-<div align="center">
-I'm a software engineer, who has a passion for making cool things. 
-</br>
-</br>
-My interests include Game Development, XR (Extended Reality), Artificial Intelligence / Machine Learning, and Web3.
+<div>
+I'm a software engineer, who has a passion for making cool things. My interests include Game Development, Artificial Intelligence / Machine Learning, XR (Extended Reality), and Web3.
 </div>
 <hr>
 
-<div align="center" justify-content="space-evenly" width="100%">
+<div width="100%">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=BGHProjects&show_icons=true&theme=midnight-purple" align="center"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGHProjects&layout=compact&theme=midnight-purple&langs_count=6&hide=html,php,css,haskell,visual%20basic,scss,vue" align="center"/>
  </div>
  
- </br>
+</br>
 </br>
        
  
  ### Game Development
  <hr>
- <div align="center" >
+ <div>
+
+   <a  href="https://github.com/BGHProjects/Fabula-Ex-Machina">
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=Fabula-Ex-Machina&show_owner=true&theme=midnight-purple" />
+  </a>
+   
+   <a  href="https://github.com/BGHProjects/vzn-v1">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=vzn-v1&show_owner=true&theme=midnight-purple" />
+  </a>
+   
   <a  href="https://github.com/BGHProjects/World_Engine_VR_Unity_Game">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=World_Engine_VR_Unity_Game&show_owner=true&theme=midnight-purple" />
   </a>
   
-   <a href="https://github.com/BGHProjects/MetaRanger_v1">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=MetaRanger_v1&show_owner=true&theme=midnight-purple" />
-  </a>
- 
   <a href="https://github.com/BGHProjects/DotsAndBoxes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=DotsAndBoxes&show_owner=true&theme=midnight-purple" />
   </a>
   </div>
   
-  </br>
+</br>
+</br>
+
+ ### Artifical Intelligence / Machine Learning
+ <hr>
+ <div>
+  <a  href="https://github.com/BGHProjects/Custom-Large-Language-Model">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=Custom-Large-Language-Model&show_owner=true&theme=midnight-purple" />
+  </a>
+  
+  <a href="https://github.com/BGHProjects/AI-Youtube-Assistant">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=AI-Youtube-Assistant&show_owner=true&theme=midnight-purple" />
+  </a>
+
+  <a href="https://github.com/BGHProjects/Self-Driving-Car-Computer-Vision-Projects">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=Self-Driving-Car-Computer-Vision-Projects&show_owner=true&theme=midnight-purple" />
+  </a>
+
+  <a href="https://github.com/BGHProjects/Unsupervised-Learning-Algorithmic-Trading-Strategy">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=Unsupervised-Learning-Algorithmic-Trading-Strategy&show_owner=true&theme=midnight-purple" />
+  </a>
+  
+  </div>
+  
+</br>
 </br>
  
 ### XR (Extended Reality)
 <hr>
- <div align="center">
+ <div>
+   <a  href="https://github.com/BGHProjects/Planets-AR">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=Planets-AR&show_owner=true&theme=midnight-purple" />
+  </a>
+   
   <a  href="https://github.com/BGHProjects/TowerOfHanoiVR_UnityGame">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=TowerOfHanoiVR_UnityGame&show_owner=true&theme=midnight-purple" />
   </a>
   
-   <a href="https://github.com/BGHProjects/SpaceTiltBrushProject_POC">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=SpaceTiltBrushProject_POC&show_owner=true&theme=midnight-purple" />
+   <a href="https://github.com/BGHProjects/Augmented-Reality-Furnishing-App">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=Augmented-Reality-Furnishing-App&show_owner=true&theme=midnight-purple" />
   </a>
  
   <a href="https://github.com/BGHProjects/HoloballZenModeImitatorVR_POC">
@@ -57,30 +86,17 @@ My interests include Game Development, XR (Extended Reality), Artificial Intelli
   </a>
   </div>
   
-   </br>
+</br>
 </br>
 
- ### Artifical Intelligence / Machine Learning
- <hr>
- <div align="center">
-  <a  href="https://github.com/BGHProjects/Photo-to-VanGogh-CycleGAN">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=Photo-to-VanGogh-CycleGAN&show_owner=true&theme=midnight-purple" />
-  </a>
-  
-   <a href="https://github.com/BGHProjects/A2C-vs-PPO-SpaceInvaders">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=A2C-vs-PPO-SpaceInvaders&show_owner=true&theme=midnight-purple" />
-  </a>
- 
-  <a href="https://github.com/BGHProjects/Traffic-Sign-Classifier-Vision-Transformer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=Traffic-Sign-Classifier-Vision-Transformer&show_owner=true&theme=midnight-purple" />
-  </a>
-  </div>
-  </br>
-</br>
- 
  ### Web 3 
  <hr>
-  <div align="center">
+  <div>
+
+  <a href="https://github.com/BGHProjects/MetaRanger_v1">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=MetaRanger_v1&show_owner=true&theme=midnight-purple" />
+  </a>
+  
   <a  href="https://github.com/BGHProjects/MetaBlox-v1">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=MetaBlox-v1&show_owner=true&theme=midnight-purple" />
   </a>
@@ -92,8 +108,10 @@ My interests include Game Development, XR (Extended Reality), Artificial Intelli
   <a href="https://github.com/BGHProjects/FundingDAO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bghprojects&repo=FundingDAO&show_owner=true&theme=midnight-purple" />
   </a>
+
   </div>
-  </br>
+  
+</br>
 </br>
 
 
